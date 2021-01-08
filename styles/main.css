@@ -1,0 +1,7 @@
+.main {
+background-color: rgba(128, 161, 157, 0.74);
+display:flex;
+}
+.main__about{
+border:red;
+}
